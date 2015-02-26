@@ -16,6 +16,5 @@ This package contains tools that can help you
 
 # see also
 Doc in 'source-code' directory
-<br/>My github blog
 <br/>My CSDN blog (http://blog.csdn.net/wkgcass)
 <br/>Go for cass囧 in Baidu java post bar (http://tieba.baidu.com/f?kw=java)
